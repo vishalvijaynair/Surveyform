@@ -41,7 +41,7 @@
 			border: 1px solid #777;
 			border-radius: 2px;
 			font-family: inherit;
-			padding: 20px;
+			padding: 14px;
 			display: block;
 			width: 95%;
 		}
@@ -64,7 +64,12 @@
 			margin-top: 50px;
 			margin-bottom: 20px;
 		}
+		.submit:hover{
+			background-color: #787edb;
+
+		}
         footer{
             color: rgb(214, 195, 195);
             text-align: center;
         }
+
